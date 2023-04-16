@@ -1,0 +1,22 @@
+{
+  "name": "lastag-wakacje-2023",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "unocss": "^0.51.4",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "@flodlc/nebula": "^1.0.56",
+    "@fontsource/quicksand": "^4.5.12",
+    "@unocss/reset": "^0.51.4",
+    "react": "^18.2.0"
+  }
+}
